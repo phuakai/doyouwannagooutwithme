@@ -25,13 +25,13 @@ body {
 a:link {
   color: white;
   background-color: transparent;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 a:visited {
   color: white;
   background-color: transparent;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 a:hover {
